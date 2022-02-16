@@ -9,9 +9,9 @@ explored with a visualization. Data will be:
 
 -   Downloaded via a website API
 -   Cleaned, transformed, and manipulated into tables that can be used
-    for reporting [here](http://www.link.com)
--   Loaded onto the kaggle website [here](http://kaggle.com)
--   Dashboard created via Tableau to explore [here](link.com)
+    for reporting [here](https://github.com/patmendoza330/animelistclean)
+-   Loaded onto the kaggle website [here](https://www.kaggle.com/patmendoza/myanimelist-api)
+-   Dashboard created via Tableau to explore [here](https://public.tableau.com/app/profile/patrick.mendoza5877/viz/WhatAnimetoWatchNextMyAnimeList/Dashboard)
 
 The MyAnimeList website has a vast repository of ratings and rankings of
 viewership data and will be my data source for the project. However,
@@ -831,5 +831,5 @@ tm_entry <- NULL
 ```
 
 That is everything that is needed to extract the base tables.
-[Next](link.com), I will go through the process for cleaning the data
+[Next](https://github.com/patmendoza330/animelistclean), I will go through the process for cleaning the data
 and loading them into their final table format.
